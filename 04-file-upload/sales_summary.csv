@@ -1,0 +1,31 @@
+order_id,product,category,month_date,region,salesperson,price,quantity,discount
+1001,Apple iPhone 13,Electronics,2025-01-01,North,John Doe,899,2,50
+1002,Nike Air Max Shoes,Clothing,2025-01-01,West,Jane Smith,120,5,10
+1003,The Alchemist,Books,2025-02-01,East,Emily Clark,15,10,0
+1004,Sony 4K TV,Electronics,2025-02-01,South,Michael Lee,1200,1,100
+1005,Adidas Ultraboost,Clothing,2025-03-01,North,Anna Kim,180,3,15
+1006,Dell XPS 13,Electronics,2025-03-01,East,John Doe,1100,2,80
+1007,Apple iPhone 13,Electronics,2025-03-01,West,Jane Smith,899,1,0
+1008,The Alchemist,Books,2025-01-01,South,Emily Clark,15,7,0
+1009,Nike Air Max Shoes,Clothing,2025-02-01,North,Michael Lee,120,4,5
+1010,Sony 4K TV,Electronics,2025-03-01,East,Anna Kim,1200,2,200
+1011,Apple Watch Series 7,Electronics,2025-04-01,South,Chris Park,399,3,30
+1012,Levi's Jeans,Clothing,2025-04-01,West,Jane Smith,60,6,12
+1013,Kindle Paperwhite,Electronics,2025-05-01,East,Emily Clark,129,4,8
+1014,MacBook Air,Electronics,2025-05-01,North,John Doe,999,2,120
+1015,Harry Potter,Books,2025-06-01,South,Michael Lee,20,8,0
+1016,Nike Air Max Shoes,Clothing,2025-06-01,North,Anna Kim,120,7,20
+1017,Apple iPhone 13,Electronics,2025-07-01,West,Chris Park,899,2,60
+1018,The Alchemist,Books,2025-07-01,East,Emily Clark,15,9,0
+1019,Adidas Ultraboost,Clothing,2025-08-01,South,Jane Smith,180,5,18
+1020,Apple Watch Series 7,Electronics,2025-08-01,North,John Doe,399,1,0
+1021,Levi's Jeans,Clothing,2025-09-01,West,Anna Kim,60,8,16
+1022,Kindle Paperwhite,Electronics,2025-09-01,East,Chris Park,129,6,10
+1023,MacBook Air,Electronics,2025-10-01,South,Michael Lee,999,1,150
+1024,Harry Potter,Books,2025-10-01,North,Emily Clark,20,12,0
+1025,Nike Air Max Shoes,Clothing,2025-11-01,North,Jane Smith,120,9,25
+1026,Apple iPhone 13,Electronics,2025-11-01,West,Chris Park,899,3,80
+1027,The Alchemist,Books,2025-12-01,East,Anna Kim,15,11,0
+1028,Adidas Ultraboost,Clothing,2025-12-01,South,Michael Lee,180,4,14
+1029,Apple Watch Series 7,Electronics,2025-12-01,North,John Doe,399,2,20
+1030,Levi's Jeans,Clothing,2025-12-01,West,Jane Smith,60,10,20
