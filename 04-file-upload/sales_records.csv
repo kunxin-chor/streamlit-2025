@@ -1,0 +1,61 @@
+sku,name,price,category,date_bought,buyer_email,buyer_country,payment_type
+SKU009,The Alchemist - Paulo Coelho,263.61,Books,2023-01-02,kate.lewis@zoho.com,UK,PayPal
+SKU007,Nike Air Max Shoes,386.58,Clothing,2023-01-05,noah.young@yandex.com,USA,Cash
+SKU003,Bose QuietComfort Headphones,419.89,Electronics,2023-01-05,alice.johnson@example.com,Germany,Cash
+SKU001,Apple iPhone 13,226.22,Electronics,2023-01-05,luke.hall@fastmail.com,UK,Card
+SKU009,The Alchemist - Paulo Coelho,300.1,Books,2023-01-07,frank.white@mail.com,Germany,PayPal
+SKU003,Bose QuietComfort Headphones,98.46,Electronics,2023-01-07,jack.wilson@protonmail.com,Australia,Card
+SKU003,Bose QuietComfort Headphones,367.39,Electronics,2023-01-08,carol.evans@gmail.com,Germany,PayPal
+SKU007,Nike Air Max Shoes,87.85,Clothing,2023-01-08,emma.thompson@icloud.com,UK,Cash
+SKU005,Dell XPS 13 Laptop,476.92,Electronics,2023-01-09,frank.white@mail.com,USA,Cash
+SKU001,Apple iPhone 13,243.61,Electronics,2023-01-10,noah.young@yandex.com,USA,PayPal
+SKU008,Adidas Ultraboost Sneakers,414.33,Clothing,2023-01-11,mia.clark@techmail.com,Canada,Cash
+SKU005,Dell XPS 13 Laptop,38.33,Electronics,2023-01-11,noah.young@yandex.com,USA,Cash
+SKU001,Apple iPhone 13,342.67,Electronics,2023-01-12,david.wilson@yahoo.com,UK,Cash
+SKU001,Apple iPhone 13,465.69,Electronics,2023-01-12,olivia.martin@gmx.com,UK,Cash
+SKU001,Apple iPhone 13,199.11,Electronics,2023-01-14,harry.davis@live.com,Germany,PayPal
+SKU004,Sony 4K Ultra HD TV,283.24,Electronics,2023-01-15,frank.white@mail.com,Germany,Card
+SKU002,Samsung Galaxy S21,398.17,Electronics,2023-01-15,carol.evans@gmail.com,UK,Card
+SKU005,Dell XPS 13 Laptop,290.26,Electronics,2023-01-16,grace.taylor@inbox.com,Canada,Card
+SKU005,Dell XPS 13 Laptop,53.5,Electronics,2023-01-19,olivia.martin@gmx.com,USA,Card
+SKU006,Canon EOS Rebel Camera,262.7,Electronics,2023-01-19,frank.white@mail.com,UK,PayPal
+SKU007,Nike Air Max Shoes,132.29,Clothing,2023-01-20,bob.smith@outlook.com,USA,PayPal
+SKU001,Apple iPhone 13,278.85,Electronics,2023-01-20,isabella.miller@edu.com,Germany,Card
+SKU009,The Alchemist - Paulo Coelho,372.75,Books,2023-01-21,isabella.miller@edu.com,Germany,Cash
+SKU007,Nike Air Max Shoes,369.03,Clothing,2023-01-22,carol.evans@gmail.com,UK,Cash
+SKU006,Canon EOS Rebel Camera,130.23,Electronics,2023-01-23,grace.taylor@inbox.com,UK,Cash
+SKU004,Sony 4K Ultra HD TV,453.7,Electronics,2023-01-24,kate.lewis@zoho.com,Canada,Cash
+SKU009,The Alchemist - Paulo Coelho,308.71,Books,2023-01-24,isabella.miller@edu.com,Australia,Cash
+SKU009,The Alchemist - Paulo Coelho,157.07,Books,2023-01-25,noah.young@yandex.com,Australia,Cash
+SKU005,Dell XPS 13 Laptop,256.91,Electronics,2023-01-27,harry.davis@live.com,Australia,Cash
+SKU008,Adidas Ultraboost Sneakers,63.18,Clothing,2023-01-27,olivia.martin@gmx.com,USA,Cash
+SKU003,Bose QuietComfort Headphones,400.72,Electronics,2023-01-28,grace.taylor@inbox.com,USA,PayPal
+SKU009,The Alchemist - Paulo Coelho,410.37,Books,2023-01-29,kate.lewis@zoho.com,UK,Cash
+SKU001,Apple iPhone 13,65.56,Electronics,2023-01-29,carol.evans@gmail.com,USA,Cash
+SKU010,Levi's 501 Original Jeans,418.23,Clothing,2023-01-29,bob.smith@outlook.com,Germany,PayPal
+SKU007,Nike Air Max Shoes,192.61,Clothing,2023-02-01,frank.white@mail.com,Germany,PayPal
+SKU005,Dell XPS 13 Laptop,488.71,Electronics,2023-02-02,alice.johnson@example.com,Australia,Card
+SKU006,Canon EOS Rebel Camera,32.95,Electronics,2023-02-02,emma.thompson@icloud.com,UK,Card
+SKU003,Bose QuietComfort Headphones,399.1,Electronics,2023-02-03,bob.smith@outlook.com,UK,Cash
+SKU009,The Alchemist - Paulo Coelho,439.12,Books,2023-02-03,isabella.miller@edu.com,Australia,PayPal
+SKU002,Samsung Galaxy S21,49.59,Electronics,2023-02-04,noah.young@yandex.com,Germany,PayPal
+SKU009,The Alchemist - Paulo Coelho,198.82,Books,2023-02-05,jack.wilson@protonmail.com,Australia,PayPal
+SKU005,Dell XPS 13 Laptop,310.56,Electronics,2023-02-05,olivia.martin@gmx.com,USA,Cash
+SKU010,Levi's 501 Original Jeans,21.36,Clothing,2023-02-06,david.wilson@yahoo.com,Canada,Card
+SKU001,Apple iPhone 13,165.19,Electronics,2023-02-06,bob.smith@outlook.com,Australia,PayPal
+SKU007,Nike Air Max Shoes,468.21,Clothing,2023-02-08,grace.taylor@inbox.com,UK,Cash
+SKU007,Nike Air Max Shoes,55.5,Clothing,2023-02-10,alice.johnson@example.com,Canada,Card
+SKU010,Levi's 501 Original Jeans,268.34,Clothing,2023-02-10,grace.taylor@inbox.com,Australia,PayPal
+SKU004,Sony 4K Ultra HD TV,447.36,Electronics,2023-02-13,olivia.martin@gmx.com,Australia,PayPal
+SKU007,Nike Air Max Shoes,298.1,Clothing,2023-02-14,grace.taylor@inbox.com,USA,Cash
+SKU003,Bose QuietComfort Headphones,184.6,Electronics,2023-02-14,bob.smith@outlook.com,Australia,Cash
+SKU004,Sony 4K Ultra HD TV,400.83,Electronics,2023-02-15,bob.smith@outlook.com,Australia,PayPal
+SKU004,Sony 4K Ultra HD TV,192.7,Electronics,2023-02-17,mia.clark@techmail.com,Australia,Cash
+SKU004,Sony 4K Ultra HD TV,496.02,Electronics,2023-02-18,harry.davis@live.com,Canada,Card
+SKU002,Samsung Galaxy S21,482.59,Electronics,2023-02-19,luke.hall@fastmail.com,Australia,Card
+SKU008,Adidas Ultraboost Sneakers,150.45,Clothing,2023-02-21,frank.white@mail.com,Australia,PayPal
+SKU010,Levi's 501 Original Jeans,399.77,Clothing,2023-02-23,frank.white@mail.com,USA,PayPal
+SKU007,Nike Air Max Shoes,330.81,Clothing,2023-02-25,mia.clark@techmail.com,UK,PayPal
+SKU008,Adidas Ultraboost Sneakers,258.13,Clothing,2023-02-25,jack.wilson@protonmail.com,USA,PayPal
+SKU001,Apple iPhone 13,247.84,Electronics,2023-02-25,frank.white@mail.com,Germany,Cash
+SKU002,Samsung Galaxy S21,210.3,Electronics,2023-02-25,david.wilson@yahoo.com,UK,Card
